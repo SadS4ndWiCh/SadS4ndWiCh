@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, i'm Caio!</h1>
+<h3 align="center">I'm currently focusing on studying front-end</h3>
 
-<!--
-**SadS4ndWiCh/SadS4ndWiCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🔭 I do not work yet
+ 
+ - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python** (_Less focused on python at the moment_)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/SadS4ndWiCh">
+    <img src="https://github-readme-stats.vercel.app/api?username=SadS4ndWiCh&show_icons=true&count_private=true" alt="SadS4ndWiCh" title="SadS4ndWiCh's GitHub Stats" />
+</a>
+</p>
