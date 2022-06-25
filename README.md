@@ -3,7 +3,7 @@
 
  - 🔭 I do not work yet
  
- - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python** (_Less focused on python at the moment_)
+ - 🌱 I’m currently learning **React, Nextjs and React Native**
 
 <p align="center">
 <a href="https://github.com/SadS4ndWiCh">
