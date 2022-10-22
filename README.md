@@ -1,5 +1,5 @@
 # **Caio Vinícius**
-#### Web Developer
+#### Front End Developer | Software Developer
 
 <br/>
 
