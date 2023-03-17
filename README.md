@@ -30,3 +30,6 @@ My focus is on the Front-End area, where the opportunity I had to intern as a Pr
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white&color=333" target="_blank"></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-CSharp-%230077B5?style=for-the-badge&logo=csharp&logoColor=white&color=333" target="_blank"></a>
+
+<small style="display:block;margin-bottom:8px;letter-spacing:3px;font-weight:bold;font-size:12px;">ViSITORS COUNT</small>
+![](https://komarev.com/ghpvc/?username=sads4ndwich&style=for-the-badge)
