@@ -34,4 +34,6 @@ My focus is on the Front-End area, where the opportunity I had to intern as a Pr
 ---
 <br />
 
+![](https://ssr-contributions-svg.vercel.app/_/SadS4ndWiCh?chart=3dbar&gap=0.6&scale=2&flatten=0&format=png&quality=1&weeks=30&theme=green&dark=true)
+
 ![](https://komarev.com/ghpvc/?username=sads4ndwich&style=for-the-badge)
